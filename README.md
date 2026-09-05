@@ -16,7 +16,7 @@ DAX measures for revenue trends, MoM growth, customer segmentation, and transact
 Four report pages: Executive Overview, Risk Monitoring, Customer Segments, Category & Merchant
 
 
-The full .pbix file is large (SQL Server–connected, 1.85M-row import) and isn't included here — available on request.
+The full .pbix file is large (SQL Server–connected, 1.85M-row import) and isn't included here: available on request.
 
 Note on the data
 
